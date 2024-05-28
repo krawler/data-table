@@ -1,0 +1,5 @@
+/node_modules
+/.angular
+mysql_connection.json
+/src/assets/.gitkeep
+package-lock.json
